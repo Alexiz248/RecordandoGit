@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  text-align: center;
+}
+
+.slide-container {
+  display: inline-flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.slide {
+  min-width: 4rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
